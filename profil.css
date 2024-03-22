@@ -1,0 +1,61 @@
+body {
+    background-image: url("background.png");
+    background-attachment: fixed;
+    background-size: cover;
+ }
+h1{
+    text-align: center;
+    font-size: 250%;
+    font-family: Helvetica;
+    margin-top: 2%;
+    margin-bottom:2%;
+    color: rgba(255, 255, 255, 0.777);
+}
+ table{
+    padding-left: 14%;
+    padding-right: 14%;
+ }
+ .colonne1 { 
+   background-color:  rgba(255, 255, 255, 0.136);
+   padding-top: 1%;
+   width: 4%;
+
+ }
+ .colonne2{
+   background-color: #f9b48000;    
+   width: 1.5%;
+
+ }
+ .colonne3{
+   background-color: rgba(255, 255, 255, 0.136);
+   width: 10%;
+ }
+ 
+ .profillabel{
+   Color : rgba(255, 255, 255, 0.777);
+   font-size: 160%;
+}
+.profilstat{
+   Color : rgba(255, 255, 255, 0.9);
+   font-size: 115%;
+}
+.input {
+    text-align: center;
+    font-size: 110%;
+    padding: 4px 6px;
+    width: 80%;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+.bouton {
+    font-size: 18px;
+    padding: 8px 6px;
+    border-radius: 5px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.5);
+    transition-delay: 20ms;
+    transition-duration: 100ms;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 17%;
+}

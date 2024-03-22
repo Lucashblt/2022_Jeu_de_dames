@@ -1,0 +1,85 @@
+body {
+    background-image: url("background.png");
+    background-size: cover;
+ }
+h1{
+    text-align: center;
+    font-size: 200%;
+    font-family: Helvetica;
+    color: rgba(255, 255, 255, 0.777);
+}
+
+#damier{
+    margin-left: auto;
+    margin-right: 20%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.noir {
+    background-color: rgba(0, 0, 0, 0.85);
+    width: 52px;
+    height: 52px;
+    border: 1px solid black;
+}
+.blanc {
+    background-color: #f9b48000;    
+    width: 52px;
+    height: 52px;
+    border: 1px solid black;
+}
+.pionblanc{
+    margin-top: 3px;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.90);
+}
+.pionnoir{
+    margin-top: 3px;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    background: rgb(0, 0, 0);
+}
+.piongrise{
+    margin-top: 3px;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    background: rgba(159, 158, 158, 0.5);
+}
+.profilpartie{
+    text-align: center;
+    font-size: 125%;
+    color: rgba(255, 255, 255, 0.90);
+}
+.grille{
+    width: 77%;
+
+}
+.infopartie{
+    width : 13%;
+}
+.reinegris{
+    margin-top: 3px;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    background: rgba(159, 158, 158, 0.5);
+}
+.reinenoir{
+    margin-top: 3px;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    background: rgba(1, 1, 1, 1);
+}
+.reineblanc{
+    margin-top: 3px;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.90);
+}
+
+

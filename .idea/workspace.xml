@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="286c6ef2-2ff7-48eb-874a-a7e312c76ef3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Barre_de_Navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reprendrepartie.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classement.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classement.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condition.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dameb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonctions_plateau.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plateau.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plateau.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profilFemme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profilHomme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profilinvite.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/projetinfodames V2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouvellepartie.css" beforeDir="false" afterPath="$PROJECT_DIR$/Nouvellepartie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouvellepartie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nouvellepartie.php" beforeDir="false" afterPath="$PROJECT_DIR$/Nouvellepartie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reprendrepartie.css" beforeDir="false" afterPath="$PROJECT_DIR$/Reprendrepartie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reprendrepartie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionutilisation.html" beforeDir="false" afterPath="$PROJECT_DIR$/conditionutilisation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/connexion.css" beforeDir="false" afterPath="$PROJECT_DIR$/connexion.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/connexion.php" beforeDir="false" afterPath="$PROJECT_DIR$/connexion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inscription.css" beforeDir="false" afterPath="$PROJECT_DIR$/inscription.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inscription.php" beforeDir="false" afterPath="$PROJECT_DIR$/inscription.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jeu_de_dames.sql" beforeDir="false" afterPath="$PROJECT_DIR$/jeu_de_dames.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagedaccueil.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagedaccueil.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/profil.css" beforeDir="false" afterPath="$PROJECT_DIR$/profil.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profil.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/profil.png" beforeDir="false" afterPath="$PROJECT_DIR$/profil.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Desktop/cours_P22/IF3/PHP_1_corr/resultat.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/cours_P22/IF3/PHP_1_corr/calcul.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/inscription.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/connexion.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="27tOhtAo4sSTDBkjPPIBztjRjFc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hubla\Documents\projetinfodames V4" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="286c6ef2-2ff7-48eb-874a-a7e312c76ef3" name="Changes" comment="" />
+      <created>1650136037633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650136037633</updated>
+      <workItem from="1650136039190" duration="228000" />
+      <workItem from="1650186430783" duration="3327000" />
+      <workItem from="1650274502574" duration="7832000" />
+      <workItem from="1650289265489" duration="82000" />
+      <workItem from="1650289994668" duration="5016000" />
+      <workItem from="1650309055937" duration="5324000" />
+      <workItem from="1650380992759" duration="38983000" />
+      <workItem from="1650534958417" duration="25182000" />
+      <workItem from="1650628397288" duration="55993000" />
+      <workItem from="1650867020030" duration="957000" />
+      <workItem from="1650886559488" duration="1495000" />
+      <workItem from="1651233720869" duration="4283000" />
+      <workItem from="1651346120791" duration="2502000" />
+      <workItem from="1651405522983" duration="11592000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

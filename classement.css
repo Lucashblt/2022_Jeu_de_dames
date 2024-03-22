@@ -1,0 +1,74 @@
+body {
+    background-image: url("background.png");
+    background-size: cover;
+    position: relative;
+    font-family: Helvetica;
+    font-size: 15px;
+
+
+}
+h1 {
+    text-align: center;
+    font-size: 250%;
+    font-family: Helvetica;
+    margin-top: 3%;
+    color: rgba(255, 255, 255, 0.777);
+}
+.RechercheJoueur{
+    text-align: right;
+    margin-right: 1%;
+    margin-top: 0px;
+}
+.text{
+    height: 28px;
+}
+.bouton {
+    font-size: 14px;
+    padding: 8px 6px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.5);
+    transition-delay: 20ms;
+    transition-duration: 100ms;
+    cursor: pointer;
+    margin-top: 10px;
+
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 125%;
+    font-family: Helvetica;
+    color: rgba(255, 255, 255, 0.777);
+    background-color: rgba(138, 137, 137, 0.65);
+
+}
+.rank{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 100%;
+    font-family: Helvetica;
+    color: rgba(0, 0, 0, 0.70);
+    background-color: rgba(255, 255, 255, 0.15);
+    width: 10%;
+}
+.pseudo{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 115%;
+    font-family: Helvetica;
+    color: rgba(0, 0, 0, 0.70);
+    background-color: rgba(255, 255, 255, 0.21);
+    width: 25%;
+}
+.chiffre{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 115%;
+    font-family: Helvetica;
+    color: rgba(0, 0, 0, 0.70);
+    background-color: rgba(255, 255, 255, 0.21);
+    width: 22.5%;
+}
